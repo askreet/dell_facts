@@ -6,8 +6,8 @@ This is a Facter library to use omreport to gather information about a system in
 Issues / Limitations
 --------------------
 
-# There is a lot more this can gather.
-# It's very explicitly configured for Puppet Enterprise and the RPM installation of srvadmin.  It has no concept of alternative locations to store cached configuration or access the commandline tools.
+1. There is a lot more this can gather.
+2. It's very explicitly configured for Puppet Enterprise and the RPM installation of srvadmin.  It has no concept of alternative locations to store cached configuration or access the commandline tools.
 
 License
 -------
